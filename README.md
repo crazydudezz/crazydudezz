@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @crazydudezz
 - 👀 I’m interested in ... front-end development
-- 💞️ I’m looking to collaborate on ... any cool projects!
+- ✨ I’m looking to collaborate on ... any cool projects!
 
 <!---
 crazydudezz/crazydudezz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
